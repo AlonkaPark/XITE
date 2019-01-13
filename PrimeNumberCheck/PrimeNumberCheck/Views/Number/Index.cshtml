@@ -1,0 +1,31 @@
+﻿@model PrimeNumberCheck.Models.Number
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <p>
+            Please enter your number to check if it's prime?
+        </p>
+        <p>
+            (Negative values cannot be prime by default)
+        </p>
+        @using (Html.BeginForm("Index", "Number", FormMethod.Post))
+        {
+            <p>
+                <input type="number" name="Value" min="0" id="insertedNumber" required /> <!--This field is required and cannot be empty. Vaules cannot be <0 because negative values cannot be prime by default-->
+            </p>
+            <p>
+                <input type="submit" value="Check" id="checkButton" />
+            </p>
+        }
+    </div>
+</body>
+</html>

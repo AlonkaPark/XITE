@@ -1,0 +1,34 @@
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\chromedriver.exe
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\AutoTestPrimeNumber.dll
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\AutoTestPrimeNumber.pdb
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\WebDriver.dll
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\WebDriver.Support.dll
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\WebDriver.xml
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\WebDriver.Support.xml
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\obj\Debug\AutoTestPrimeNumber.csproj.CoreCompileInputs.cache
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\obj\Debug\AutoTestPrimeNumber.dll
+F:\проекты VS\AutoTestPrimeNumber\AutoTestPrimeNumber\obj\Debug\AutoTestPrimeNumber.pdb
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\chromedriver.exe
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\AutoTestPrimeNumber.dll
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\AutoTestPrimeNumber.pdb
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\WebDriver.dll
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\WebDriver.Support.dll
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\WebDriver.xml
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\bin\Debug\WebDriver.Support.xml
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\obj\Debug\AutoTestPrimeNumber.csproj.CoreCompileInputs.cache
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\obj\Debug\AutoTestPrimeNumber.dll
+F:\AutomationTesting\XITE\AutoTestPrimeNumber\AutoTestPrimeNumber\obj\Debug\AutoTestPrimeNumber.pdb

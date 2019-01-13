@@ -1,0 +1,29 @@
+﻿@model PrimeNumberCheck.Models.Number
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Result</title>
+</head>
+<body>
+    <div>
+        @if (@Model.isPrime == true)  //If provided number is prime system will show "Yes" picture otherwise picture "No"
+        {
+            <img src="yes.jpg" alt="Prime number" height="242" width="242" id="yesImg">
+        }
+        else
+        {
+            <img src="no.png" alt="Not a prime number" height="242" width="242" id="noImg">
+        }
+        <p>
+            @Html.ActionLink("Back", "Index", "Number")
+        </p>
+    </div>
+</body>
+</html>
